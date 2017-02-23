@@ -2,6 +2,7 @@
 
 a site to see reddit user history breakdowns
 
-todo:
+##todo:
 
 - add media scan
+- data validation
